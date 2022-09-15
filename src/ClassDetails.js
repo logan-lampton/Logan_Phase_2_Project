@@ -21,18 +21,14 @@ function ClassDetails({ c }){
                   Role: {role}
                   <br/>
                   Spellcasting Abilities: {spellcasting}
-                </p>
-                <div>
-                  <p>
-                  {hit_dice} Hit Dice
-                  </p>
-                  <p>Description: {description}</p>
                   <br/>
-                  <p>Interests: {interests}</p>
+                  {hit_dice} Hit Dice
+                  <br/>
+                  Description: {description}
+                  <br/>
+                  Interests: {interests}</p>
                 </div>
-
               </div>
-            </div>
           </li>
         </>
       );

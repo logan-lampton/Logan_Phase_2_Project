@@ -48,7 +48,6 @@ function App() {
     <div>
       <header id="main-header" className="centered">
           <h1>Your Next Adventurer</h1>
-          {/* <h1>Choose Your Class</h1> */}
       </header>
       <Switch>
         <Route exact path="/">
