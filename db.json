@@ -1,0 +1,134 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "name": "Artificer",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/66204702/30992aea38d7495b92daf6558558d2c8/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=Lftt7KzMeMRDCYeoWq2WSwGoHCHORlS_Nv2tn6SQWGc%3D",
+      "role": "Frontline, Support, Utility",
+      "spellcasting": "Half-Caster",
+      "hit_dice": "d8",
+      "interests": "Robots, Replacing Your Limbs with Robot Arms, Metal Pets, Making Magical Items",
+      "description": "Masters of invention, artificers use ingenuity and magic to unlock extraordinary capabilities in objects."
+    },
+    {
+      "id": 2,
+      "name": "Barbarian",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/67924854/20ffd24ccace4207b3a0b48623d1b651/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=ze_8_R-tc-ywZgk2h8QILSDonE0TZFl-VYoXoUhs_hY%3D",
+      "role": "Damage, Frontline",
+      "spellcasting": "No Spellcasting",
+      "hit_dice": "d12",
+      "interests": "RAAAAGE!!!, Bodypaint, Going Straight to Combat, Saying 'The Wound is No Big Deal'",
+      "description": "A fierce warrior of primitive background who can enter a battle rage"
+    },
+    {
+      "id": 3,
+      "name": "Bard",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/56114281/aedb8b2800b848d69b2d5fc5a0a6384b/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=XExZJDkvyMF9anVDjjDkp8WOhvG6VyNnFx9EqY2eJrs%3D",
+      "role": "Explorer, Negotiator, Support, Utility",
+      "spellcasting": "Full-Caster",
+      "hit_dice": "d8",
+      "interests": "Beating the Big Bad With a Lute Solo, Singing Limericks, Seducing the Dragon",
+      "description": "An inspiring magician whose power echoes the music of creation"
+    },
+    {
+      "id": 4,
+      "name": "Cleric",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/63152699/5aa5c481ef734c61a45bce9baca07b50/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=kCjpIPcO61ft36whxOmRDRWme694OI00XFDlej5XqoM%3D",
+      "role": "Frontline, Support, Utility",
+      "spellcasting": "Full-Caster",
+      "hit_dice": "d8",
+      "interests": "Holy Symbols, Dramatic Prayers, Wrecking Undead, Being the Designated Healer",
+      "description": "A priestly champion who wields divine magic in service of a higher power"
+    },
+    {
+      "id": 5,
+      "name": "Druid",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/71391087/0a92ac1edc144740a36c57eb3d4e73e4/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=TgsJ6mbIhXeGw5kAegAstVmtcI-lNMe_iXLxfbIh4VA%3D",
+      "role": "Explorer, Support, Utility",
+      "spellcasting": "Full-Caster",
+      "hit_dice": "d8",
+      "interests": "Cuddling with Animals, Turning into a Freaking Bear, Controlled Wildfires, Wood Armor ",
+      "description": "A priest of the Old Faith, wielding the powers of nature and adopting animal forms"
+    },
+    {
+      "id": 6,
+      "name": "Fighter",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/58669030/4d7ad9b3a21e45a1a457888ba6c74ea8/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=0_TFxq8ak4N2qtTZEnMrDOamA1tPHgKlJBkmIjHZAIQ%3D",
+      "role": "Damage, Frontline",
+      "spellcasting": "No Spellcasting",
+      "hit_dice": "d10",
+      "interests": "Dealing the Most Damage, Mastery of all Weapons, Kicking Down Doors, Short Rests",
+      "description": "A master of martial combat, skilled with a variety of weapons and armor"
+    },
+    {
+      "id": 7,
+      "name": "Monk",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/64364998/7c8d592a44c645368463149dd55faadb/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=g6av99FvXf-EAtEZnSr5GIK-qyaEoSsrPBX8MiR01wQ%3D",
+      "role": "Damage, Explorer",
+      "spellcasting": "No Spellcasting",
+      "hit_dice": "d8",
+      "interests": "Running Across Water, Running Up Walls, Rock Hard Abs, Punching People to Death",
+      "description": "A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection"
+    },
+    {
+      "id": 8,
+      "name": "Paladin",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/60999652/2eecb067250d41c29873860e935bc96c/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=ngKgY-XBZgmVC6yCMngNRb-jwVRiVDsc-KJ4Qz2OqbQ%3D",
+      "role": "Damage, Frontline, Negotiator, Support",
+      "spellcasting": "Half-Caster",
+      "hit_dice": "d10",
+      "interests": "Holy Auras, Ride-or-Die for Your God, Full Plate Armor, Smiting Baddies",
+      "description": "A holy warrior bound to a sacred oath"
+    },
+    {
+      "id": 9,
+      "name": "Ranger",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/63862206/1b59fd9a92724f609b29f86fd01e5bcc/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=D7oES0Fuon4LZsV0BoXAl9tuy9_ljObV8URoI9XLKjI%3D",
+      "role": "Damage, Explorer",
+      "spellcasting": "Half-Caster",
+      "hit_dice": "d10",
+      "interests": "Pets, Animals, Bows, Long Walks in the Forest, Overcoming Prejudice",
+      "description": "A warrior who combats threats on the edges of civilization"
+    },
+    {
+      "id": 10,
+      "name": "Rogue",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/58942306/3cd79f99271e4949b9904cf3f29e05b8/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=oYIOX_Kf2LQFO2oizznNj1_FjQaCz_kEeJmHt8MgBcw%3D",
+      "role": "Damage, Explorer, Negotiator",
+      "spellcasting": "No Spellcasting",
+      "hit_dice": "d8",
+      "interests": "Stealing, Sneaking, Stabbing from Behind, Stealing More Stuff, Obscuring Cloaks, Shadows",
+      "description": "A scoundrel who uses stealth and trickery to overcome obstacles and enemies"
+    },
+    {
+      "id": 11,
+      "name": "Sorcerer",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/64730788/e6348802e02e4959a2f76f58331deb41/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=LmHsrgIcPTNEwNZ7iitibuSDl-kLsjpJgxGSQjBgnUE%3D",
+      "role": "Damage, Negotiator, Utility",
+      "spellcasting": "Full-Caster",
+      "hit_dice": "d6",
+      "interests": "Dragons, Making Fun of Wizards, Two Spells at Once!, Sneaky Spells",
+      "description": "A spellcaster who draws on inherent magic from a gift or bloodline"
+    },
+    {
+      "id": 12,
+      "name": "Warlock",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/61883449/02124863e5654bd7ae9552279e417c44/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=sL5RGkCqV8xrswsiOtNU8ncn-DlTR-bWWq86RDRbXxI%3D",
+      "role": "Damage, Negotiator",
+      "spellcasting": "Full-Caster",
+      "hit_dice": "d8",
+      "interests": "Demons, Work-Smarter-Not-Harder, Edgy Leather, Evil Fairies, Cthulhu",
+      "description": "A wielder of magic that is derived from a bargain with an extraplanar entity"
+    },
+    {
+      "id": 13,
+      "name": "Wizard",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/post/59895395/24435afb3c12400fb27837324c4dd31b/eyJ3Ijo2MjB9/1.jpg?token-time=1664236800&token-hash=EjKnkfOFTRCI2URYUzZRq-53aN9W2ll7FkHSP-XiTUo%3D",
+      "role": "Damage, Explorer, Utility",
+      "spellcasting": "Full-Caster",
+      "hit_dice": "d6",
+      "interests": "Reading, Harry Potter, Being Smarter Than Everyone Else, Beards, Fireball",
+      "description": "A scholarly magic-user capable of manipulating the structures of reality"
+    }
+  ]
+}
