@@ -28,7 +28,9 @@ img {
 }
 
 .cards__item {
-  display: flex;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding: 1rem;
   width: 25%;
 }
