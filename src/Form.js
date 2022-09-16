@@ -27,15 +27,15 @@ function Form({ addClass }){
         <div>
             <form onSubmit={handleAddClass}>
                 <div>
-                    <input type="text" name="name" placeholder="Name" class="form"/>
-                    <input type="text" name="image" placeholder="Image" class="form" />
-                    <input type="text" name="role" placeholder="Role" class="form" />
-                    <input type="text" name="spellcasting" placeholder="Spellcasting" class="form" />
-                    <input type="text" name="hit_dice" placeholder="Hit Dice" class="form" />
-                    <input type="text" name="interests" placeholder="Interests" class="form" />
-                    <input type="text" name="description" placeholder="Description" class="form" />
+                    <input type="text" name="name" placeholder="Name" className="form"/>
+                    <input type="text" name="image" placeholder="Image" className="form" />
+                    <input type="text" name="role" placeholder="Role" className="form" />
+                    <input type="text" name="spellcasting" placeholder="Spellcasting" className="form" />
+                    <input type="text" name="hit_dice" placeholder="Hit Dice" className="form" />
+                    <input type="text" name="interests" placeholder="Interests" className="form" />
+                    <input type="text" name="description" placeholder="Description" className="form" />
                 </div>
-                <button type="submit" class="form">Add Your Class!</button>
+                <button type="submit" className="form">Add Your Class!</button>
             </form>
         </div>
     )
