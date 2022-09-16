@@ -26,10 +26,7 @@ function ClassDetails({ c }){
                   <br/>
                   Description: {description}
                   <br/>
-                  Interests: 
-                  <ul>
-                    <li>{interests}</li>
-                  </ul>
+                  Interests: {interests}
                   </p>
                 </div>
               </div>
